@@ -1,0 +1,13 @@
+md5: 203d05c574e85451951b34de9acd5399
+frozen: true
+deps:
+- path: data
+  repo:
+    url: https://github.com/anessabiri/data-register/
+    rev: data_v2
+    rev_lock: d9e219dafcaa8fb63f791595148086e0008c726a
+outs:
+- md5: f5892cfbcab64a6e83a94920e8f8cf75.dir
+  size: 4941842
+  nfiles: 792
+  path: data
